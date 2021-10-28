@@ -1,14 +1,12 @@
 {
-  "data": [
-    {
-      "time": "2021-10-28T10:33:12",
-      "eventId": 1,
-      "eventProvider": "GDrive",
-      "eventAction": "Upload",
-      "organizationId": 123,
-      "sourceIp": "10.0.8.245",
-      "sourceUserName": "Jeel",
-      "sourceUserId": 17
-    }
-  ]
+  "data": {
+    "time": "2021-10-28T10:33:12",
+    "eventId": 1,
+    "eventProvider": "GDrive",
+    "eventAction": "Upload",
+    "organizationId": 123,
+    "sourceIp": "10.0.8.245",
+    "sourceUserName": "Jeel",
+    "sourceUserId": 17
+  }
 }

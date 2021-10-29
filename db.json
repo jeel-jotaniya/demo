@@ -13,6 +13,7 @@
   },
   "data": {
     "time": "2021-10-28T10:33:12",
+    "message": "{'test': 'this is temp field'}"
     "eventId": 1,
     "eventProvider": "GDrive",
     "eventAction": "Upload",
